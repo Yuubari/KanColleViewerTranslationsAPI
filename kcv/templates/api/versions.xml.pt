@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Versions>
+	<Settings>
+		<UpdateRootURL>https://raw.githubusercontent.com/KCV-Localisation/KanColleViewer-Translations/master/</UpdateRootURL>
+	</Settings>
+<!--!
+<span tal:repeat="version versions" tal:omit-tag="">	<Item>
+		<Name tal:content="version.type">Placeholder Type</Name>
+		<Version tal:content="version.version">Placeholder Version</Version>
+<span tal:switch="version.type" tal:omit-tag="">		<URL tal:case="'Ships'">https://raw.githubusercontent.com/KCV-Localisation/KanColleViewer-Translations/master/<span tal:replace="version.type"/>.xml</URL></span>
+	</Item></span>
+-->
+	<Item>
+		<Name>App</Name>
+		<Version>3.8.1.9</Version>
+		<URL>https://github.com/KCV-Localisation/KanColleViewer/releases/tag/v3.8.1r9</URL>
+	</Item>
+	<Item>
+		<Name>Equipment</Name>
+		<Version>1.0.27</Version>
+		<URL>https://raw.githubusercontent.com/KCV-Localisation/KanColleViewer-Translations/master/Equipment.xml</URL>
+	</Item>
+	<Item>
+		<Name>Operations</Name>
+		<Version>1.0.6</Version>
+		<URL>https://raw.githubusercontent.com/KCV-Localisation/KanColleViewer-Translations/master/Operations.xml</URL>
+	</Item>
+	<Item>
+		<Name>Quests</Name>
+		<Version>1.0.38</Version>
+		<URL>https://raw.githubusercontent.com/KCV-Localisation/KanColleViewer-Translations/master/Quests.xml</URL>
+	</Item>
+	<Item>
+		<Name>Ships</Name>
+		<Version>1.0.31</Version>
+		<URL>https://raw.githubusercontent.com/KCV-Localisation/KanColleViewer-Translations/master/Ships.xml</URL>
+	</Item>
+	<Item>
+		<Name>ShipTypes</Name>
+		<Version>1.0.7</Version>
+		<URL>https://raw.githubusercontent.com/KCV-Localisation/KanColleViewer-Translations/master/ShipTypes.xml</URL>
+	</Item>
+</Versions>

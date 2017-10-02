@@ -1,0 +1,5 @@
+0.1
+---
+
+-  Initial version
+Basic API support including old-style (KCV 3) version reporting (simplified, for 'en' only).
